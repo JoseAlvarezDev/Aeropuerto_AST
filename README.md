@@ -6,6 +6,14 @@
 
 ---
 
+## 📸 Screenshots
+
+| Splash Screen | Live Dashboard | Interactive Map |
+| :---: | :---: | :---: |
+| ![Splash](public/screenshots/splash.png) | ![Dashboard](public/screenshots/dashboard.png) | ![Popup](public/screenshots/popup.png) |
+
+---
+
 ## ✨ Features
 
 - 🛰️ **Live Radar:** Real-time aircraft positioning using OpenSky Network API.
