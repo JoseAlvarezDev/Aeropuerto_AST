@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://josealvarezdev.github.io/Aeropuerto_AST/sitemap.xml
